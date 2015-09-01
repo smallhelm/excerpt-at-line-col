@@ -27,7 +27,7 @@ four
 ```
 
 # API
-## excerptAtLineCol(text, line\_n, col\_n, n\_surrounding\_lines)
+### excerptAtLineCol(text, line\_n, col\_n, n\_surrounding\_lines)
  * `text` - is the text you want to extract an excerpt from
  * `line_n` -  the line number, starting at 0
  * `col_n` - the column number, starting at 0
