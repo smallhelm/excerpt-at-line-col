@@ -1,0 +1,23 @@
+{
+  "name": "excerpt-at-line-col",
+  "version": "1.0.0",
+  "description": "Get text excerpt that points to a given line and column number",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js | tap-min"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smallhelm/excerpt-at-line-col.git"
+  },
+  "author": "smallhelm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallhelm/excerpt-at-line-col/issues"
+  },
+  "homepage": "https://github.com/smallhelm/excerpt-at-line-col",
+  "devDependencies": {
+    "tap-min": "^1.0.0",
+    "tape": "^4.2.0"
+  }
+}
